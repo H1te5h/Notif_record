@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyApplication3" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+
+        <!-- Custom Colors for your layouts -->
+        <item name="customBackgroundColor">@color/light_gray</item>
+        <item name="customTextColor">@color/dark_gray</item>
+        <item name="customTextColorSecondary">@color/dark_gray</item>
+    </style>
+
+    <style name="Theme.MyApplication3" parent="Base.Theme.MyApplication3" />
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Record_Notification" type="id"/>
+    <item name="Auto_Record_Rules" type="id"/>
+    <item name="Output_directory" type="id"/>
+    <item name="record_notification_switch" type="id"/>
+    <item name="recyclerView" type="id"/>
+    <item name="notification_title" type="id"/>
+    <item name="notification_content" type="id"/>
+    <item name="notification_date_and_time" type="id"/>
+    <item name="view_notification_history" type="id"/>
+    <item name="manage_exclusions" type="id"/>
+    <item name="disable_battery_optimization" type="id"/>
+    <item name="exportButton" type="id"/>
+    <item name="About" type="id"/>
+    <item name="battery_optimization_toggle" type="id"/>
+</resources>

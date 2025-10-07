@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Basic Notification Listener</string>
+    <string name="general">General</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="about">About</string>
+    <string name="record_notification">Record Notification</string>
+    <string name="record_all_app_notifications_even_if_deleted">Record all app notifications, even if deleted</string>
+    <string name="disable_battery_optimization">Disable Battery Optimization</string>
+    <string name="battery_optimization_description">Reduce the chance of the app being killed by the system</string>
+    <string name="auto_record_rules">Auto-Record Rules</string>
+    <string name="output_directory">Output Directory</string>
+    <string name="output_format">Output Format</string>
+    <string name="json">JSON</string>
+    <string name="csv">CSV</string>
+    <string name="exceptions">Exceptions in Apps</string>
+    <string name="excluded_description">Pick which apps are excluded for recordings</string>
+    <string name="output_directory_description">Select the output where you want the recordings to be saved\n(Note: Choose external directory)</string>
+    <string name="output_format_description">Select which format you need to save the recordings</string>
+    <string name="version">Version</string>
+    <string name="version_description">Version 1.0</string>
+    <string name="rules">Rules</string>
+    <string name="add_new_rule">Add new rule</string>
+    <string name="rule_1_action_save_notification">Rule 1\nAction: Save notification</string>
+    <string name="default_rule_action_save_notification">Default rule\nAction: Save notification</string>
+    <string name="exceptions_title">Exceptions</string>
+    <string name="exception_description">Add apps which you don\'t want to be recorded.</string>
+    <string name="add_apps">Add apps</string>
+    <string name="show_notifications">Show Notifications</string>
+    <string name="open_recyclerview">Open RecyclerView</string>
+    <string name="Not_title">Title</string>
+    <string name="Not_content">Content</string>
+    <string name="Not_time">Time</string>
+    <string name="export_to_json">Export to JSON</string>
+</resources>
